@@ -48,11 +48,13 @@ The app supports `.xlsx` file format.
 
 ### 📊 Customer Segments (via PCA)
 
-![Customer Segments](customer_segments.png)
+![PCA](PCA.png)
+
+![Cluster Summary](clusterSummary.png)
 
 ### 🧺 Market Basket Insights
 
-![Market Basket Analysis](market_basket.png)
+![Market Basket Analysis](MarketBasketAnalysis.png)
 
 ---
 
