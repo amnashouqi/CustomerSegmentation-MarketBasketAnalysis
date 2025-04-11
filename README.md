@@ -31,7 +31,7 @@ git clone https://github.com/amnashouqi/CustomerSegmentation-MarketBasketAnalysi
 
 ## 📋 Data Requirements
 
-Make sure your transaction dataset includes the following columns:
+If you want to test on your own data, Make sure your transaction dataset includes the following columns:
 
 - `InvoiceNo`
 - `InvoiceDate`
@@ -39,8 +39,6 @@ Make sure your transaction dataset includes the following columns:
 - `Quantity`
 - `UnitPrice`
 - `Description`
-
-Or just simply use the dataset (Online Retail.xlsx) in the repo :)
 
 The app supports `.xlsx` file format.
 
