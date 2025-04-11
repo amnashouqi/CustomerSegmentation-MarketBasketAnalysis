@@ -83,9 +83,3 @@ Feel free to fork, improve, and open a pull request.
 Ideas, issues, and feature suggestions are welcome!
 
 ---
-
-## 📜 License
-
-MIT License — [see LICENSE](LICENSE) for details.
-
----
